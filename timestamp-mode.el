@@ -47,10 +47,10 @@ nil 以外であれば行頭にのみ挿入する、nil なら行頭以外にも
 	"タイムスタンプ可視状態時にモードラインに付加する文字列。"
   :group 'timestamp)
 (defcustom timestamp-insert-stamp-start-separater "|"
-	"挿入した接尾辞を囲む先頭のセパレータ。"
+	"挿入したタイムスタンプを囲む先頭のセパレータ。"
   :group 'timestamp)
 (defcustom timestamp-insert-stamp-end-separater "|"
-	"挿入した接尾辞を囲む末尾のセパレータ。"
+	"挿入したタイムスタンプを囲む末尾のセパレータ。"
   :group 'timestamp)
 
 (defface timestamp
