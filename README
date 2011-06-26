@@ -1,3 +1,5 @@
+Emacs Minor-mode that inserts time stamp for shell-mode and ssh-mode.
+
 Usage:
 
 Please write the following codes in your ~/.emacs.
