@@ -1,0 +1,6 @@
+Usage:
+
+Please write the following codes in your ~/.emacs.
+
+(set 'timestamp-mode-enable nil)
+(require 'timestamp-mode)
