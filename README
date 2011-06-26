@@ -1,4 +1,5 @@
 Emacs Minor-mode that inserts time stamp for shell-mode and ssh-mode.
+(based comint-mode)
 
 Usage:
 
